@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+venv/
+
+/other
+png/
+raw_png/
+svg/
+tmp/
+background/
